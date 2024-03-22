@@ -18,6 +18,6 @@
 ### 📖 project
 ![Untitled](https://github.com/Elandland/Elandland/assets/68230815/424d476c-a713-4544-b022-6d9241f34d60)
 
-- x-mas mail (Total backend programming)
-
-  https://x-mas-mail.vercel.app/  
+- X-MAS Mail  (23.11~23.12)
+- Total backend programming<br>
+https://x-mas-mail.vercel.app/  
