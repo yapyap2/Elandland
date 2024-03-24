@@ -1,11 +1,12 @@
 <h1 align="center">Hi , I'm Elandland</h1>
-<h3 align="center">I'm a beginner backend developer.</h3><br> <br> 
+<h3 align="center">I'm a beginner backend developer.</h3>
+<h3 align="center">하고 싶은걸 하자</h3><br> <br>
 
 - 🔎 I am researching about **Firebase**, **AWS**, and **JAVA** now.
 
 - 📫 How to reach me: **bodan99@@gmail.com**
 
-- 📫 On free time : Game, Guitar, Workout
+- ✨ On free time : Game, Guitar, Workout
  
 <h3 align="left">Languages and Tools:</h3><br> 
 
@@ -25,6 +26,7 @@
 
 
 ### 📖 project
+
 ![Untitled](https://github.com/Elandland/Elandland/assets/68230815/424d476c-a713-4544-b022-6d9241f34d60)
 
 - X-MAS Mail  (23.11~23.12)
