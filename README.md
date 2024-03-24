@@ -4,6 +4,8 @@
 - 🔎 I am researching about **Firebase**, **AWS**, and **JAVA** now.
 
 - 📫 How to reach me: **bodan99@@gmail.com**
+
+- 📫 On free time : Game, Guitar, Workout
  
 <h3 align="left">Languages and Tools:</h3><br> 
 
