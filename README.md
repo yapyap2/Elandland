@@ -13,6 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elandland)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elandland)](https://github.com/anuraghazra/github-readme-stats)<br> 
 
 
+## Experience 💻
+
+| 기간                | 내용                                        | 
+|---------------------|:---------------------------------------------:|
+| 2024.03 ~ 현재      | 신한투자증권 프로 디지털 아카데미 4기       |
 
 
 ### 📖 project
@@ -20,4 +25,4 @@
 
 - X-MAS Mail  (23.11~23.12)
 - Total backend programming<br>
-https://x-mas-mail.vercel.app/  
+https://x-mas-mail.vercel.app/ (현재 배포 중단)
