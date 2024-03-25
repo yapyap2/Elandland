@@ -7,6 +7,8 @@
 - 📫 How to reach me: **bodan99@@gmail.com**
 
 - ✨ On free time : Game, Guitar, Workout
+<br><br>
+---
  
 <h3 align="left">Languages and Tools:</h3><br> 
 
